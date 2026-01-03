@@ -180,6 +180,15 @@
       "decimals": 18,
       "address": "0x9e757BAdF582A92899606E97165E90857F51646b",
       "logoURI": "https://raw.githubusercontent.com/j9web3/deafpower/main/tokenlist/deafpowerDEX.png"
-    }
+    },
+  {
+  "name": "EROCOIN",
+  "chainId": 1022,
+  "symbol": "ERO",
+  "decimals": 18,
+  "address": "0x37adb066ac584fe0eb8e1a3b9465935f248c1c3f",
+  "logoURI": "https://raw.githubusercontent.com/Jeffery-48/dex-tokenlist/main/ero.png"
+}
+
   ]
 }
